@@ -31,8 +31,13 @@ It is advisable to execute this following command using the command prompt befor
 
 'pip install -r requirements.txt'
 
+To see the working of the web-scraping application used in this project, it is advised to run this following command in Command Prompt
+'python main.py'
+
+To propose suggestions to improve this project, forking the repository is the preferred way to go. 
+
 ## PERSONAL SITUATION
-This project is done in order to fulfill Exploratory Data Analysis assignment for BeCode
+This project is done in order to fulfill the Exploratory Data Analysis assignment for BeCode
 
 ## PROJECT LIMITATIONS
 1. Data collection strategy can be improved
