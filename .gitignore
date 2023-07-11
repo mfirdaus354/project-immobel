@@ -119,10 +119,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dev_env
 
 # Spyder project settings
 .spyderproject
 .spyproject
+.cfg
+settings.py
+scrapy.cfg
+__init__.py
 
 # Rope project settings
 .ropeproject
@@ -150,3 +155,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# miscellaneous stuffs
+LICENSE
+4326
